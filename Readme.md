@@ -12,10 +12,10 @@ We have come up with a new innovative solution through which you can directly do
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
  
   ## Team Members      
-  Team Leader - Shriman S    
-  Team Member 1 - Suriyakumar R K    
-  Team Member 2 - Shundararajan K R    
-  Team Member 3 - Samp Pranav P
+  Team Leader - Yeshwindhini K   
+  Team Member 1 - V.Swetha  
+  Team Member 2 - K.R.Shalini 
+  Team Member 3 - G.Vijayalakshmi
  
   ## Industry Mentor:
   Name: Krishna Chaitanya
